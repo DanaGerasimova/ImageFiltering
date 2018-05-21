@@ -1,0 +1,141 @@
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\Opengl.exe
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\Opengl.pdb
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.dll
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.dll
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.WinForms.dll
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.pdb
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.xml
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+D:\Work\MyPrograms\CS\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+D:\Work\MyPrograms\CS\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+D:\Work\MyPrograms\CS\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+D:\Work\MyPrograms\CS\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+D:\Work\MyPrograms\CS\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+D:\Work\MyPrograms\CS\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\MyPrograms\CS\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 1\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 1\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 1\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.WinForms.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 2\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.WinForms.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 3\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.WinForms.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 4\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.WinForms.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 5\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\Opengl.exe.config
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\Opengl.exe
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\Opengl.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.WinForms.dll
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+D:\Work\Education\Семестр 9\Аналіз мед зображень\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\Opengl.exe.config
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.exe
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.pdb
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\Opengl.exe
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\Opengl.pdb
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.pdb
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.xml
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+E:\mine\учёба\визуализация\Labi\Лаби\Лаба 6\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\Opengl.exe.config
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\Opengl.exe
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\Opengl.pdb
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\SharpGL.pdb
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\SharpGL.xml
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\danie\Desktop\Opengl\Opengl\bin\Debug\SharpGL.WinForms.xml
+C:\Users\danie\Desktop\Opengl\Opengl\obj\Debug\Opengl.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Opengl\Opengl\obj\Debug\Opengl.Form1.resources
+C:\Users\danie\Desktop\Opengl\Opengl\obj\Debug\Opengl.Properties.Resources.resources
+C:\Users\danie\Desktop\Opengl\Opengl\obj\Debug\Opengl.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Opengl\Opengl\obj\Debug\Opengl.exe
+C:\Users\danie\Desktop\Opengl\Opengl\obj\Debug\Opengl.pdb
